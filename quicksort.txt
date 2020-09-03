@@ -1,0 +1,3 @@
+	 Ordenamiento QuickSort
+Arreglo antes: |-33||-6||-5||0||7||23||69||88||98||100|
+ Arreglo despues: |-33||-6||-5||0||7||23||69||88||98||100|
